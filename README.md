@@ -11,7 +11,7 @@ Download and install the [latest APK release](https://github.com/jsagayap/bandma
 You need to have [Flutter](https://flutter.dev/) installed to build this application
 
 ```
-cd "bandmate"
+cd ./bandmate
 flutter clean
 flutter pub get
 flutter build apk
